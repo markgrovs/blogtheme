@@ -1,0 +1,46 @@
+﻿/********************************************************************************************* 
+
+CSS3 Elements Seperated to Maintain Validation
+
+*********************************************************************************************/
+#menu a, 
+.widget img, 
+#preview img, 
+#twitter-feed img, 
+.entry img, 
+#comment, 
+#author, 
+#email, 
+#url, 
+#submit, 
+div.reply,
+ul.commentlist li div.reply a, 
+img.avatar,
+.vimeo-vid img,
+.youtube-vid img {
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+
+.entry a {
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+border-radius: 2px;
+}
+
+#preview img  {
+-webkit-box-shadow: 0px 0px 1px #000000;
+-moz-box-shadow: 0px 0px 1px #000000;
+box-shadow: 0px 0px 1px #000000;
+}
+
+.img_arc img {
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+
+
+
+
