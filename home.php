@@ -5,4 +5,5 @@
 	<?php endif; ?>
 </div> <!-- content -->
 
+<?php ?>
 <?php get_footer(); ?>
