@@ -36,4 +36,5 @@
 		<!-- nothing to see here -->
 	<?php endif; ?>
 </body>
+
 </html>
