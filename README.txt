@@ -17,3 +17,5 @@ BLOG PAGE SETUP:
 2. Give the page a title (e.g. "Blog").
 3. Under the "Template" options, select "Blog".
 4. Click "Publish".
+
+test
